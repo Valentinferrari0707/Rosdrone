@@ -1,0 +1,13 @@
+<launch>
+    <!--Node_Drone-->
+    <node pkg="mini_projet" type="control_node" name="control"/>
+
+<!-- joy_node-->
+    <node respawn="true" pkg="joy" type="joy_node" name="controle_joy">
+        <param name="dev" type="string" value="/dev/input/js0"/>
+        <param name="deadzone" value="0.050000."/>
+
+    </node>
+
+
+</launch>

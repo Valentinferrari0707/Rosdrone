@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/devel
+
+Name: mini_projet
+Description: Description of mini_projet
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/student/catkin_ws/devel/lib 
+Requires: 

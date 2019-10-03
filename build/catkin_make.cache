@@ -1,0 +1,2 @@
+drone_bebop/bebop_autonomy/bebop_autonomy:drone_bebop/bebop_autonomy/bebop_description:drone_bebop/bebop_autonomy/bebop_driver:drone_bebop/bebop_autonomy/bebop_msgs:drone_bebop/bebop_autonomy/bebop_tools:joystick_drivers/joy:joystick_drivers/joystick_drivers:joystick_drivers/ps3joy:joystick_drivers/spacenav_node:joystick_drivers/wiimote:mini_projet
+-DCATKIN_DEVEL_PREFIX=/home/student/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/student/catkin_ws/install -G Unix Makefiles
